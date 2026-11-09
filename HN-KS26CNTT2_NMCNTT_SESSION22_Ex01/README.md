@@ -1,0 +1,8 @@
+# 3. Yêu cầu nghiệp vụ
+- Nhập môn Công nghệ thông tin filetype:pdf site:ptit.edu.vn -courses.neu.edu.vn -studocu.vn
+## 4.Yêu cầu đầu ra
+- Tại sao việc dùng toán tử filetype: lại giúp tiết kiệm thời gian hơn so với việc gõ "tải sách..." thông thường. Vì khi tìm kiếm thông thường thì nội dung mình đưa ra sẽ ra nhiều các trang web khác nhau có thể có trang sai sót khi không đồng bộ với nội dung mình đưa ra sử dụng toán tử filetype: sẽ ép google chỉ trả về đường dẫn trực tiếp đến tài liệu.
+> Mô phỏng 3 kết quả đầu tiên khi áp dụng "Combo toán tử"
+- [site:stackoverflow.com error: expected ‘)’ before ‘;’ token](https://stackoverflow.com/questions/55014089/what-is-error-expected-before-token)
+- [online PDF converter & editor filetype: pdf site:wordpdf.com](https://pdfleader.com/add/edit-pdf?id_partner=b_search&feature=editPDF&clickid=c51a50f0ca9617437afd3a018dce984b&campid=571335534&agid=1180877769725576&keyword=online%20pdf%20editor%20free&matchtype=e&creatid=&extid={extensionid}&targetid=kwd-73805519323615:loc-166&device=c&devmod=&placement=&adpos=&msclkid=c51a50f0ca9617437afd3a018dce984b&utm_source=bing&utm_medium=cpc&utm_campaign=B_VI_S_-EN-VI-_Exact%2BBroad_Main%2F81&utm_term=online%20pdf%20editor%20free&utm_content=edit_pdf%2Fen)
+- [Home filetype: note site:chess.com](https://www.chess.com/blog/Schemato/how-to-generate-a-pgn-file-containing-game-annotations-within-chesscom)
